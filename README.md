@@ -1,2 +1,1 @@
-# Projet OUEDRAOGO Alpha Moumouni
-# Projet de fin de formation à la Certification DIT
+# Projet OUEDRAOGO Alpha Moumouni_Gestion de stock et caisse d’une boutique
