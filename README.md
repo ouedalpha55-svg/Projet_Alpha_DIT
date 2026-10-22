@@ -1,2 +1,2 @@
-# Projet_Alpha_DIT
-Projet de fin de formation à la Certtification DIT
+# Projet OUEDRAOGO Alpha Moumouni
+# Projet de fin de formation à la Certification DIT
